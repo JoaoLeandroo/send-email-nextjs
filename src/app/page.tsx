@@ -13,7 +13,7 @@ export default function Home() {
             name="email"
             id="email"
             placeholder="emailexample@example.com"
-            className="h-11 shadow-xl bg-zinc-400/40 placeholder:text-white"
+            className="h-11 shadow-xl bg-zinc-400/60 placeholder:text-white"
           />
         </div>
 
